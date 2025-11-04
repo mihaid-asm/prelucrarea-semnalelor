@@ -1,0 +1,2 @@
+4. min=40Hz, max=200Hz, avem nevoie de 2*max=400Hz.
+7. Pzgomot = 90dB - 80dB = 10dB.
